@@ -1,6 +1,10 @@
 Currently working on:
-Javascript
-Python
+
+- Python ![Progress](https://progress-bar.dev/11/)
+- Javascript ![Progress](https://progress-bar.dev/1/)
+- Go ![Progress](https://progress-bar.dev/1/)
+- TypeScript ![Progress](https://progress-bar.dev/1/)
+- Java ![Progress](https://progress-bar.dev/1/)
 
 If you are trying to learn how to effectively solve Leetcode problems
 I suggest looking at https://neetcode.io/, I am working my way through the
